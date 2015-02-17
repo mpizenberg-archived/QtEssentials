@@ -1,0 +1,10 @@
+These images are (C) 2007-2012 Kevin Ottens <ervin@ipsquad.net>.
+
+The author hereby permits their use as input data in the
+QML Thumbnail Explorer Lab or any other lab of the
+Nokia Qt Development Frameworks training material, including
+all necessary storage and distribution in the handout of such
+trainings.
+
+No other use is permitted.
+
