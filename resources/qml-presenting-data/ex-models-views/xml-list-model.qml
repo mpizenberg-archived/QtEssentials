@@ -1,4 +1,5 @@
 import QtQuick 2.0
+import QtQuick.XmlListModel 2.0
 
 Rectangle {
     width: 400; height: 260
@@ -19,8 +20,9 @@ Rectangle {
 
     ListView {
         anchors.fill: parent
-        anchors.margins: 4
+        anchors.margins: 10
         model: xmlModel
         delegate: xmlDelegate
+        clip: true
     }
 }
